@@ -91,14 +91,6 @@ See [`K8s-setup-kubeadm/README.md`](K8s-setup-kubeadm/README.md) for a full, pra
 - Anyone needing quick, up-to-date installation recipes!
 
 ---
-
-## 🙋‍♂️ Need Help or Want to Connect?
-
-This project is maintained by **Saifee Zibrahim**.  
-If you have questions, need help, or want to collaborate, feel free to reach out and let's help more people learn DevOps together!
-
----
-
 ## 🤝 Contributing
 
 Contributions, suggestions, and corrections are welcome!  
@@ -113,5 +105,6 @@ If you found this helpful, star ⭐ the repo or share it to help more people lea
 
 Need help or want to connect? [Reach out on GitHub!](https://github.com/saifeezibrahim)
 
-Happy learning!![image](https://github.com/user-attachments/assets/1880d967-0bf7-4b0f-b215-69afb0f4dcfe)
+Happy learning!
+
 
