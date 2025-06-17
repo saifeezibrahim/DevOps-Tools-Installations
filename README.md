@@ -28,6 +28,7 @@ Each directory contains step-by-step instructions and scripts to get you started
 - **Terraform**: Install HashiCorp Terraform for Infrastructure as Code
 - **Trivy**: Setup Trivy for container vulnerability scanning
 - **eksctl**: Install eksctl to manage AWS EKS clusters
+- **k3dcluster**: Set up lightweight Kubernetes clusters in Docker with k3d
 
 _and more being added!_
 
@@ -51,6 +52,7 @@ SonarQube/
 Terraform/
 Trivy/
 eksctl/
+k3dcluster/
 ```
 
 Each folder contains:
@@ -106,7 +108,7 @@ Feel free to fork and submit a pull request!
 
 ## 📄 License
 
-MIT — Free for personal and educational use.
+MIT Free for personal and educational use.
 
 ---
 
