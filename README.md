@@ -99,21 +99,19 @@ If you have questions, need help, or want to collaborate, feel free to reach out
 
 ---
 
-## 📝 Contributing
+## 🤝 Contributing
 
-Found a bug, or want to add another tool?  
+Contributions, suggestions, and corrections are welcome!  
 Feel free to fork and submit a pull request!
-
----
 
 ## 📄 License
 
-MIT Free for personal and educational use.
+MIT  Free for personal and educational use.
 
----
+## 🙋‍♂️ Maintained by Saifeez Ibrahim
+If you found this helpful, star ⭐ the repo or share it to help more people learn DevOps!
 
-## 🙋‍♂️ Maintainer
+Need help or want to connect? [Reach out on GitHub!](https://github.com/saifeezibrahim)
 
-Created and maintained by [@saifeezibrahim](https://github.com/saifeezibrahim).
+Happy learning!![image](https://github.com/user-attachments/assets/1880d967-0bf7-4b0f-b215-69afb0f4dcfe)
 
-Happy learning!
